@@ -31,7 +31,7 @@ public class Week3 : MonoBehaviour
         // days
         ageInDays = myAge * ageInDays;
         // hours
-        ageInHours = myAge *
+        ageInHours = myAge;
 
         // mins
 
